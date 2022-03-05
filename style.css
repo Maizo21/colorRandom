@@ -64,7 +64,7 @@ button:active {
   opacity: 0;
 }
 
-@media screen and (max-width: 600px) {
+@media (max-width: 600px) {
   main {
     height: 100vw;
   }
